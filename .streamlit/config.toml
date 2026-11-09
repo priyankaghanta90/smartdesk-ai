@@ -1,0 +1,5 @@
+[server]
+port = 8502  # 8501 is reserved by Windows on the dev machine
+
+[browser]
+gatherUsageStats = false
