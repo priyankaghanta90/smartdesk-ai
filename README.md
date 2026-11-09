@@ -11,7 +11,9 @@ Bonus features implemented: hybrid search with a re-ranker, IT/HR specialist sub
 > Architecture diagrams (components, agent graph, escalation sequence and evaluation) are in [docs/architecture.md](docs/architecture.md).
 
 ### Demo video (1 min 30 s)
-**[▶ Watch the demo (MP4)](https://github.com/priyankaghanta90/smartdesk-ai/raw/main/docs/demo/smartdesk-demo.mp4)** (sped up about 2×; a [real-time version](https://github.com/priyankaghanta90/smartdesk-ai/raw/main/docs/demo/smartdesk-demo-full.mp4) is 3 min 20 s) shows six flows in one session, against the live Jira project:
+![SmartDesk demo: six flows in one session](docs/demo/smartdesk-demo.gif)
+
+Sped up about 2×. [Download the MP4](https://github.com/priyankaghanta90/smartdesk-ai/raw/main/docs/demo/smartdesk-demo.mp4) to pause or scrub. Six flows in one session, against the live Jira project:
 1. Answer from the KB with cited sources, plus a follow-up that keeps the context
 2. Gap in the KB → ticket offer to the right team → preview, edited to high priority → created only after "Yes"
 3. Ticket status: email remembered, 6 tickets listed, "the monitor one" picked → status and support comments
